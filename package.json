@@ -1,0 +1,13 @@
+{
+  "name": "lazy-susan-wordpress-plugin",
+  "version": "1.0.0",
+  "description": "WordPress plugin server for Lazy Susan",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
